@@ -26,6 +26,7 @@ I am currently in my second year of Information Systems Engineering at UTN, loca
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  
 
 </span>
 
